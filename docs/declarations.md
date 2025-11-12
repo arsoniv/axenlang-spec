@@ -51,7 +51,7 @@ class ClassName {
 
 ### Members
 
-Class members are typed fields.
+Class members are typed fields (without any initalised values)
 
 ```
 class Rectangle {

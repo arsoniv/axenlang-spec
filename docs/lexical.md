@@ -12,6 +12,12 @@ Single-line comments begin with `//` and continue to the end of the line.
 // This is a comment
 ```
 
+Single-line comments begin with `/*` and continue to the next `*/`.
+
+```
+/* This is a comment */
+```
+
 ## Identifiers
 
 Identifiers consist of letters and digits. The first character must be a letter.
