@@ -1,0 +1,44 @@
+site_name: AxenLang Specification
+site_url: https://arsoniv.github.io/axenlang-spec/
+site_description: Language specification for the AxenLang programming language
+site_author: arsoniv
+repo_name: arsoniv/axenc
+repo_url: https://github.com/arsoniv/axenc
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - toc.integrate
+    - search.suggest
+    - content.code.copy
+    - content.code.annotate
+
+nav:
+  - Home: index.md
+  - Lexical Structure: lexical.md
+  - Types: types.md
+  - Expressions: expressions.md
+  - Statements: statements.md
+  - Declarations: declarations.md
+  - Program Structure: program.md
+
+markdown_extensions:
+  - codehilite:
+      guess_lang: false
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+      title: On this page
+
+extra:
+  generator: false
