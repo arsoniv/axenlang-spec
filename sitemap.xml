@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://arsoniv.github.io/axenlang-spec/</loc>
+         <lastmod>2025-11-12</lastmod>
+    </url>
+    <url>
+         <loc>https://arsoniv.github.io/axenlang-spec/declarations/</loc>
+         <lastmod>2025-11-12</lastmod>
+    </url>
+    <url>
+         <loc>https://arsoniv.github.io/axenlang-spec/expressions/</loc>
+         <lastmod>2025-11-12</lastmod>
+    </url>
+    <url>
+         <loc>https://arsoniv.github.io/axenlang-spec/lexical/</loc>
+         <lastmod>2025-11-12</lastmod>
+    </url>
+    <url>
+         <loc>https://arsoniv.github.io/axenlang-spec/program/</loc>
+         <lastmod>2025-11-12</lastmod>
+    </url>
+    <url>
+         <loc>https://arsoniv.github.io/axenlang-spec/statements/</loc>
+         <lastmod>2025-11-12</lastmod>
+    </url>
+    <url>
+         <loc>https://arsoniv.github.io/axenlang-spec/types/</loc>
+         <lastmod>2025-11-12</lastmod>
+    </url>
+</urlset>
